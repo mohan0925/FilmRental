@@ -1,0 +1,42 @@
+test case 1:
+
+Available DVD's to be rented..........!
+Film Tittle=Harry potter, Film Duration=2.3, Film category=fantasy, DVD Status	= available
+Film Tittle=Spiderman, Film Duration=2.0, Film category=fantasy, DVD Status	= available
+Film Tittle=Space, Film Duration=2.5, Film category=Scifi, DVD Status	= available
+Which DVD you want to rent?
+Enter Film Tittle from list
+Spiderman
+
+Available DVD's........!
+Film Tittle=Harry potter, Film Duration=2.3, Film category=fantasy, DVD Status	= available
+Film Tittle=Spiderman, Film Duration=2.0, Film category=fantasy, DVD Status	=Rented
+Film Tittle=Space, Film Duration=2.5, Film category=Scifi, DVD Status	= available
+Do you want to return the DVD : Spiderman
+type yes or no....!
+yes
+
+DVD returned........!
+Film Tittle=Harry potter, Film Duration=2.3, Film category=fantasy, DVD Status	= available
+Film Tittle=Spiderman, Film Duration=2.0, Film category=fantasy, DVD Status	=available
+Film Tittle=Space, Film Duration=2.5, Film category=Scifi, DVD Status	= available
+=============================================================================================
+test case 2:
+
+Available DVD's to be rented..........!
+Film Tittle=Harry potter, Film Duration=2.3, Film category=fantasy, DVD Status	= available
+Film Tittle=Spiderman, Film Duration=2.0, Film category=fantasy, DVD Status	= available
+Film Tittle=Space, Film Duration=2.5, Film category=Scifi, DVD Status	= available
+Which DVD you want to rent?
+Enter Film Tittle from list
+Spiderman
+
+Available DVD's........!
+Film Tittle=Harry potter, Film Duration=2.3, Film category=fantasy, DVD Status	= available
+Film Tittle=Spiderman, Film Duration=2.0, Film category=fantasy, DVD Status	=Rented
+Film Tittle=Space, Film Duration=2.5, Film category=Scifi, DVD Status	= available
+Do you want to return the DVD : Spiderman
+type yes or no....!
+no
+
+Enjoy your movie........!
